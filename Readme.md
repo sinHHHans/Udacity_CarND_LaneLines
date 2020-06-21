@@ -13,7 +13,10 @@ This repository contains my solution of the first Project of the Udacity Self-Dr
 The aim of this project is to find the lane markings in a video and vizualize the result in a resulting video.
 My solution consists of a Jupyter Notebook.
 
-![alt text][image0] 
+![alt text][image0]
+
+In this image one frame of a result video can be seen.
+
 ### Reflection
 
 ### 1. Pipeline description
